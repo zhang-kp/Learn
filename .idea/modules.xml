@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Git.iml" filepath="$PROJECT_DIR$/.idea/Git.iml" />
       <module fileurl="file://$PROJECT_DIR$/easyexcel/easyexcel.iml" filepath="$PROJECT_DIR$/easyexcel/easyexcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql/mysql.iml" filepath="$PROJECT_DIR$/mysql/mysql.iml" />
     </modules>
   </component>
 </project>

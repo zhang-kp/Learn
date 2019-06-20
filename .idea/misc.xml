@@ -8,6 +8,9 @@
       <list>
         <option value="$PROJECT_DIR$/easypoi/pom.xml" />
         <option value="$PROJECT_DIR$/mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/netty/pom.xml" />
+        <option value="$PROJECT_DIR$/mutilthread/pom.xml" />
       </list>
     </option>
   </component>

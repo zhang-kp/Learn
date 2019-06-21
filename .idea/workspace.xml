@@ -2,35 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf8f374e-ad4a-4a49-b569-3ec9e96ff562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/src/main/java/com/zkp/git/GitApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/src/test/java/com/zkp/git/GitApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/jedis/JedisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/main/resources/redis.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_9_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/doc/MySQL知识点总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/doc/MySQL知识点总结.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/mysql.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/src/main/java/com/zkp/mysql/MysqlApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/src/test/java/com/zkp/mysql/MysqlApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/redis/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/redis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/git/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis/src/test/java/com/zkp/redis/RedisApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/redis/src/test/java/com/zkp/redis/RedisApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/easypoi/target/" />
     <ignored path="$PROJECT_DIR$/easyexcel/target/" />
@@ -38,6 +36,7 @@
     <ignored path="$PROJECT_DIR$/redis/target/" />
     <ignored path="$PROJECT_DIR$/netty/target/" />
     <ignored path="$PROJECT_DIR$/mutilthread/target/" />
+    <ignored path="$PROJECT_DIR$/git/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,83 +48,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mutilthread/src/main/java/com/zkp/mutilthread/test/SingleThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#292#306#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mutilthread/src/main/java/com/zkp/mutilthread/test/MutilThreadOfThreadPoolExecutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="803">
-              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1531#1540#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mutilthread/src/main/java/com/zkp/mutilthread/test/MutilThreadOfForkJoinPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1207#1216#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mutilthread/src/test/java/com/zkp/mutilthread/MutilThreadApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mutilthread/src/main/java/com/zkp/mutilthread/test/CalcData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mutilthread/REAADME.md">
+        <entry file="file://$PROJECT_DIR$/git/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="23">
-                <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+              <first_editor relative-caret-position="680">
+                <caret line="167" column="12" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="12" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mutilthread/src/main/java/com/zkp/mutilthread/test/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -144,6 +74,7 @@
     <findStrings>
       <find>/Users/a123123/Work/tmp_files/chongqing.xlsx</find>
       <find>==</find>
+      <find>tran</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -173,7 +104,6 @@
         <option value="$PROJECT_DIR$/mysql/HELP.md" />
         <option value="$PROJECT_DIR$/mysql/README.md" />
         <option value="$PROJECT_DIR$/mysql/doc/MySQL知识点总结.md" />
-        <option value="$PROJECT_DIR$/redis/README.md" />
         <option value="$PROJECT_DIR$/netty/README.md" />
         <option value="$PROJECT_DIR$/mutilthread/src/main/java/com/zkp/mutilthread/test/Calculator.java" />
         <option value="$PROJECT_DIR$/mutilthread/src/main/java/com/zkp/mutilthread/test/SingleThread.java" />
@@ -183,10 +113,22 @@
         <option value="$PROJECT_DIR$/mutilthread/src/test/java/com/zkp/mutilthread/MutilthreadApplicationTests.java" />
         <option value="$PROJECT_DIR$/mutilthread/src/main/java/com/zkp/mutilthread/test/CalcData.java" />
         <option value="$PROJECT_DIR$/mutilthread/src/test/java/com/zkp/mutilthread/MutilThreadApplicationTests.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/RedisTest.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/JedisTest.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/RedisConfig1.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/SpringDataRedisTest.java" />
+        <option value="$PROJECT_DIR$/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/src/test/java/com/zkp/redis/RedisApplicationTests.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/jedis/JedisTest.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/redis/src/main/resources/redis.properties" />
+        <option value="$PROJECT_DIR$/redis/README.md" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/git/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="420" />
     <option name="y" value="52" />
     <option name="width" value="1591" />
@@ -208,81 +150,7 @@
             <path>
               <item name="Git" type="b2602c69:ProjectViewProjectNode" />
               <item name="Git" type="462c0819:PsiDirectoryNode" />
-              <item name="mutilthread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Git" type="462c0819:PsiDirectoryNode" />
-              <item name="mutilthread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Git" type="462c0819:PsiDirectoryNode" />
-              <item name="mutilthread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Git" type="462c0819:PsiDirectoryNode" />
-              <item name="mutilthread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Git" type="462c0819:PsiDirectoryNode" />
-              <item name="mutilthread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mutilthread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Git" type="462c0819:PsiDirectoryNode" />
-              <item name="mutilthread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mutilthread" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Git" type="462c0819:PsiDirectoryNode" />
-              <item name="mutilthread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Git" type="462c0819:PsiDirectoryNode" />
-              <item name="mutilthread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Git" type="462c0819:PsiDirectoryNode" />
-              <item name="mutilthread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mutilthread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Git" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Git" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,18 +194,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MutilThreadApplicationTests.testThread">
-    <configuration name="EasyExcelApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="easyexcel" />
+  <component name="RunManager" selected="JUnit.RedisApplicationTests.Test">
+    <configuration name="JedisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkp.redis.jedis.JedisTest" />
+      <module name="redis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zkp.easyexcel.*" />
+          <option name="PATTERN" value="com.zkp.redis.jedis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zkp.easyexcel" />
-      <option name="MAIN_CLASS_NAME" value="com.zkp.easyexcel.EasyExcelApplicationTests" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -373,6 +239,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RedisApplicationTests.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zkp.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zkp.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.zkp.redis.RedisApplicationTests" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WordTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="easyexcel" />
       <extension name="coverage">
@@ -388,22 +270,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EasyExcelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="EasypoiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="easyexcel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zkp.easyexcel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zkp.easyexcel.EasyExcelApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zkp.easyexcel.EasypoiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EasypoiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="easyexcel" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zkp.easyexcel.EasypoiApplication" />
+    <configuration name="GitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="git" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zkp.git.GitApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -438,11 +314,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RedisApplicationTests.Test" />
+        <item itemvalue="Application.JedisTest" />
         <item itemvalue="JUnit.MutilThreadApplicationTests.testThread" />
         <item itemvalue="JUnit.PdfTests" />
         <item itemvalue="JUnit.WordTests" />
-        <item itemvalue="JUnit.EasyExcelApplicationTests" />
-        <item itemvalue="Spring Boot.EasyExcelApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +335,7 @@
       <workItem from="1560138876450" duration="5260000" />
       <workItem from="1560392729625" duration="1308000" />
       <workItem from="1560835954864" duration="3510000" />
-      <workItem from="1561003110357" duration="6816000" />
+      <workItem from="1561003110357" duration="25422000" />
     </task>
     <task id="LOCAL-00001" summary="add EasyExcel">
       <created>1560147673644</created>
@@ -482,37 +358,62 @@
       <option name="project" value="LOCAL" />
       <updated>1560839901026</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add 多线程+Netty">
+      <created>1561015616785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561015616785</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rename README.md">
+      <created>1561021704269</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561021704269</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EasyExcelApplicationTests - 2019.06.10 at 13h 47m 10s.xml">
-      <configuration name="EasyExcelApplicationTests" configurationId="JUnit" />
+    <history-entry file="RedisApplicationTests_Test - 2019.06.21 at 11h 21m 22s.xml">
+      <configuration name="RedisApplicationTests.Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EasyExcelApplicationTests - 2019.06.10 at 14h 17m 12s.xml">
-      <configuration name="EasyExcelApplicationTests" configurationId="JUnit" />
+    <history-entry file="RedisApplicationTests_Test - 2019.06.21 at 11h 21m 34s.xml">
+      <configuration name="RedisApplicationTests.Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EasyExcelApplicationTests - 2019.06.10 at 14h 18m 55s.xml">
-      <configuration name="EasyExcelApplicationTests" configurationId="JUnit" />
+    <history-entry file="RedisApplicationTests_Test - 2019.06.21 at 11h 21m 43s.xml">
+      <configuration name="RedisApplicationTests.Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordTests - 2019.06.10 at 14h 19m 56s.xml">
-      <configuration name="WordTests" configurationId="JUnit" />
+    <history-entry file="RedisApplicationTests_Test - 2019.06.21 at 11h 21m 55s.xml">
+      <configuration name="RedisApplicationTests.Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PdfTests - 2019.06.10 at 14h 20m 24s.xml">
-      <configuration name="PdfTests" configurationId="JUnit" />
+    <history-entry file="RedisApplicationTests_Test - 2019.06.21 at 11h 22m 06s.xml">
+      <configuration name="RedisApplicationTests.Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MutilThreadApplicationTests_testThread - 2019.06.20 at 15h 16m 08s.xml">
-      <configuration name="MutilThreadApplicationTests.testThread" configurationId="JUnit" />
+    <history-entry file="RedisApplicationTests_Test - 2019.06.21 at 11h 22m 20s.xml">
+      <configuration name="RedisApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisApplicationTests_Test - 2019.06.21 at 11h 23m 03s.xml">
+      <configuration name="RedisApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisApplicationTests_Test - 2019.06.21 at 11h 23m 14s.xml">
+      <configuration name="RedisApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisApplicationTests_Test - 2019.06.21 at 11h 23m 32s.xml">
+      <configuration name="RedisApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisApplicationTests_Test - 2019.06.21 at 11h 23m 50s.xml">
+      <configuration name="RedisApplicationTests.Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16894000" />
+    <option name="totallyTimeSpent" value="35500000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="420" y="52" width="1591" height="957" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11626388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -522,7 +423,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30585682" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6778742" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -535,7 +436,7 @@
       <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.36225596" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -594,7 +495,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add EasyExcel" />
     <MESSAGE value="rename readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename readme.md" />
+    <MESSAGE value="add 多线程+Netty" />
+    <MESSAGE value="rename README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename README.md" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -775,16 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redis/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="46">
-            <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysql/doc/MySQLNotes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -823,17 +716,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mutilthread/src/test/java/com/zkp/mutilthread/MutilThreadApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutilthread/REAADME.md">
+    <entry file="file://$PROJECT_DIR$/mutilthread/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="23">
@@ -850,14 +733,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/mutilthread/src/main/java/com/zkp/mutilthread/test/MutilThreadOfForkJoinPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="504">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1207#1216#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutilthread/src/test/java/com/zkp/mutilthread/MutilThreadApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/RedisConfig1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#431#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/SpringDataRedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/RedisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/jedis/JedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/resources/redis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/test/java/com/zkp/redis/RedisApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="121">
+            <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="52" column="52" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="680">
+            <caret line="167" column="12" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

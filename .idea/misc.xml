@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/redis/pom.xml" />
         <option value="$PROJECT_DIR$/netty/pom.xml" />
         <option value="$PROJECT_DIR$/mutilthread/pom.xml" />
+        <option value="$PROJECT_DIR$/git/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,15 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="redis" />
+        <module name="git" />
         <module name="netty" />
         <module name="mysql" />
-        <module name="redis" />
         <module name="mutilthread" />
         <module name="easyexcel" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="easyexcel" target="1.8" />
+      <module name="git" target="1.8" />
       <module name="mutilthread" target="1.8" />
       <module name="mysql" target="1.8" />
       <module name="netty" target="1.8" />
@@ -24,6 +26,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="easyexcel" options="-parameters" />
+      <module name="git" options="-parameters" />
       <module name="mutilthread" options="-parameters" />
       <module name="mysql" options="-parameters" />
       <module name="netty" options="-parameters" />

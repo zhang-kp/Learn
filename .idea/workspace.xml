@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf8f374e-ad4a-4a49-b569-3ec9e96ff562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/src/main/java/com/zkp/git/GitApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/src/test/java/com/zkp/git/GitApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/jedis/JedisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/main/resources/redis.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_9_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/redis/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/redis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/git/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis/src/test/java/com/zkp/redis/RedisApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/redis/src/test/java/com/zkp/redis/RedisApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/easypoi/target/" />
     <ignored path="$PROJECT_DIR$/easyexcel/target/" />
@@ -37,6 +15,8 @@
     <ignored path="$PROJECT_DIR$/netty/target/" />
     <ignored path="$PROJECT_DIR$/mutilthread/target/" />
     <ignored path="$PROJECT_DIR$/git/target/" />
+    <ignored path="$PROJECT_DIR$/timedtask/target/" />
+    <ignored path="$PROJECT_DIR$/schedulertask/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +28,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schedulertask/src/main/java/com/zkp/schedulertask/SchedulertaskApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schedulertask/src/main/java/com/zkp/schedulertask/task/SchedulerTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schedulertask/src/main/java/com/zkp/schedulertask/task/Scheduler2Task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/git/README.md">
+        <entry file="file://$PROJECT_DIR$/schedulertask/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="680">
-                <caret line="167" column="12" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="12" />
+              <first_editor relative-caret-position="23">
+                <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
               </first_editor>
               <second_editor />
             </state>
@@ -125,12 +142,18 @@
         <option value="$PROJECT_DIR$/redis/README.md" />
         <option value="$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/RedisConfig.java" />
         <option value="$PROJECT_DIR$/git/README.md" />
+        <option value="$PROJECT_DIR$/timedtask/README.md" />
+        <option value="$PROJECT_DIR$/timedtask/src/main/java/com/zkp/timedtask/TimedtaskApplication.java" />
+        <option value="$PROJECT_DIR$/schedulertask/src/main/java/com/zkp/schedulertask/SchedulertaskApplication.java" />
+        <option value="$PROJECT_DIR$/schedulertask/src/main/java/com/zkp/schedulertask/task/SchedulerTask.java" />
+        <option value="$PROJECT_DIR$/schedulertask/src/main/java/com/zkp/schedulertask/task/Scheduler2Task.java" />
+        <option value="$PROJECT_DIR$/schedulertask/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="515" />
-    <option name="y" value="100" />
+    <option name="x" value="361" />
+    <option name="y" value="59" />
     <option name="width" value="1591" />
     <option name="height" value="957" />
   </component>
@@ -140,6 +163,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,14 +175,42 @@
             <path>
               <item name="Git" type="b2602c69:ProjectViewProjectNode" />
               <item name="Git" type="462c0819:PsiDirectoryNode" />
-              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="schedulertask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Git" type="462c0819:PsiDirectoryNode" />
+              <item name="schedulertask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Git" type="462c0819:PsiDirectoryNode" />
+              <item name="schedulertask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Git" type="462c0819:PsiDirectoryNode" />
+              <item name="schedulertask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Git" type="462c0819:PsiDirectoryNode" />
+              <item name="schedulertask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="schedulertask" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,7 +228,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -194,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RedisApplicationTests.Test">
+  <component name="RunManager" selected="Spring Boot.SchedulertaskApplication">
     <configuration name="JedisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zkp.redis.jedis.JedisTest" />
       <module name="redis" />
@@ -312,6 +365,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SchedulertaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="schedulertask" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zkp.schedulertask.SchedulertaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimedtaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Scheduler" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zkp.timedtask.TimedtaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RedisApplicationTests.Test" />
@@ -335,7 +402,8 @@
       <workItem from="1560138876450" duration="5260000" />
       <workItem from="1560392729625" duration="1308000" />
       <workItem from="1560835954864" duration="3510000" />
-      <workItem from="1561003110357" duration="25422000" />
+      <workItem from="1561003110357" duration="26741000" />
+      <workItem from="1561338361681" duration="3751000" />
     </task>
     <task id="LOCAL-00001" summary="add EasyExcel">
       <created>1560147673644</created>
@@ -372,7 +440,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561021704269</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add git and Redis">
+      <created>1561099434970</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561099434970</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add git and Redis">
+      <created>1561099512515</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1561099512515</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -408,12 +490,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35500000" />
+    <option name="totallyTimeSpent" value="40570000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="420" y="52" width="1591" height="957" extended-state="0" />
+    <frame x="361" y="59" width="1591" height="957" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11626388" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19986936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -423,12 +506,12 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6778742" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6767922" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32928312" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="8" />
       <window_info anchor="bottom" id="Spring" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.29392624" />
@@ -436,7 +519,7 @@
       <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" weight="0.36225596" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.2563791" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -497,7 +580,8 @@
     <MESSAGE value="rename readme.md" />
     <MESSAGE value="add 多线程+Netty" />
     <MESSAGE value="rename README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename README.md" />
+    <MESSAGE value="add git and Redis" />
+    <option name="LAST_COMMIT_MESSAGE" value="add git and Redis" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -668,16 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/netty/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="46">
-            <caret line="2" column="47" lean-forward="true" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysql/doc/MySQLNotes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -757,30 +831,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redis/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/RedisConfig1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#431#460#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/SpringDataRedisTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/RedisConfig1.java" />
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/SpringDataRedisTest.java" />
     <entry file="file://$PROJECT_DIR$/redis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -833,9 +886,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/git/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3657">
+            <caret line="159" selection-start-line="158" selection-end-line="159" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/zkp/redis/springdataredis/RedisConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
+        <state relative-caret-position="499">
           <caret line="52" column="52" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -843,11 +906,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/git/README.md">
+    <entry file="file://$PROJECT_DIR$/netty/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="680">
-            <caret line="167" column="12" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="12" />
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scheduler/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scheduler/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="56" selection-start-column="56" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scheduler/src/main/java/com/zkp/timedtask/task/SchedulerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scheduler/src/main/java/com/zkp/timedtask/TimedtaskApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedulertask/src/main/java/com/zkp/schedulertask/task/SchedulerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedulertask/src/main/java/com/zkp/schedulertask/SchedulertaskApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedulertask/src/main/java/com/zkp/schedulertask/task/Scheduler2Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedulertask/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
           </first_editor>
           <second_editor />
         </state>

@@ -12,7 +12,14 @@
         <option value="$PROJECT_DIR$/netty/pom.xml" />
         <option value="$PROJECT_DIR$/mutilthread/pom.xml" />
         <option value="$PROJECT_DIR$/git/pom.xml" />
+        <option value="$PROJECT_DIR$/timedtask/pom.xml" />
+        <option value="$PROJECT_DIR$/schedulertask/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Scheduler/pom.xml" />
+      </set>
     </option>
   </component>
 </project>

@@ -10,12 +10,15 @@
         <module name="schedulertask" />
         <module name="git" />
         <module name="mutilthread" />
-        <module name="mysql" />
-        <module name="netty" />
         <module name="easyexcel" />
+        <module name="mysql" />
+        <module name="util" />
+        <module name="netty" />
+        <module name="async" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="async" target="1.8" />
       <module name="easyexcel" target="1.8" />
       <module name="git" target="1.8" />
       <module name="mutilthread" target="1.8" />
@@ -24,11 +27,13 @@
       <module name="redis" target="1.8" />
       <module name="Scheduler" target="1.8" />
       <module name="schedulertask" target="1.8" />
+      <module name="util" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Scheduler" options="-parameters" />
+      <module name="async" options="-parameters" />
       <module name="easyexcel" options="-parameters" />
       <module name="git" options="-parameters" />
       <module name="mutilthread" options="-parameters" />
@@ -36,6 +41,7 @@
       <module name="netty" options="-parameters" />
       <module name="redis" options="-parameters" />
       <module name="schedulertask" options="-parameters" />
+      <module name="util" options="-parameters" />
     </option>
   </component>
 </project>
